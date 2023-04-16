@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project</string>
+    <string name="text" >Football Scoreboard</string>
+    <string name="argentina">Argentina</string>
+    <string name="Jamaika" >Jamaika</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="dropping">Dropping</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">project</string>
+    <string name="text" translatable="false">Футбольное табло</string>
+    <string name="argentina" translatable="false">Аргентина</string>
+    <string name="Jamaika" translatable="false">Ямайка</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="dropping" translatable="false">Сброс</string>
+</resources>
